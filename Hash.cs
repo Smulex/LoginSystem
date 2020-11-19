@@ -22,9 +22,12 @@ namespace LoginSystem
             }
         }
 
-        private string Combine(string first, string second)
+        private static byte[] Combine(byte[] first, byte[] second)
         {
-            first
+            var ret = new byte[first.Length + second.Length];
+
+            Buffer.BlockCopy(first, 0, ret, 0, first.Length);
+            Buffer.BlockCopy(second, 0, ret, first.Length, second.Length);
 
             return ret;
         }
