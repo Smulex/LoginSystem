@@ -1,0 +1,7 @@
+C:\Users\chri45i4\source\repos\LoginSystem\LoginSystem\bin\Debug\LoginSystem.exe.config
+C:\Users\chri45i4\source\repos\LoginSystem\LoginSystem\bin\Debug\LoginSystem.exe
+C:\Users\chri45i4\source\repos\LoginSystem\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\chri45i4\source\repos\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csprojAssemblyReference.cache
+C:\Users\chri45i4\source\repos\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\chri45i4\source\repos\LoginSystem\LoginSystem\obj\Debug\LoginSystem.exe
+C:\Users\chri45i4\source\repos\LoginSystem\LoginSystem\obj\Debug\LoginSystem.pdb
